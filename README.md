@@ -1,7 +1,8 @@
 # react-google-maps
 > React.js Google Maps integration component
+Next version of react-google maps component based on  [tomchentw/react-google-maps](https://tomchentw.github.io/react-google-maps/#introduction)
 
-[![Version][npm-image]][npm-url] [![Travis CI][travis-image]][travis-url] [![Quality][codeclimate-image]][codeclimate-url] [![Coverage][codeclimate-coverage-image]][codeclimate-coverage-url] [![Dependencies][gemnasium-image]][gemnasium-url] [![Gitter][gitter-image]][gitter-url]
+<!-- [![Version][npm-image]][npm-url] [![Travis CI][travis-image]][travis-url] [![Quality][codeclimate-image]][codeclimate-url] [![Coverage][codeclimate-coverage-image]][codeclimate-coverage-url] [![Dependencies][gemnasium-image]][gemnasium-url] [![Gitter][gitter-image]][gitter-url] -->
 
 
 ## [Introduction](https://tomchentw.github.io/react-google-maps/#introduction)
